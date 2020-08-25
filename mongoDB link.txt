@@ -1,0 +1,8 @@
+https://www.w3resource.com/mongodb/mongodb-python-driver.php
+
+https://docs.mongodb.com/manual/reference/operator/aggregation/not/
+
+https://studio3t.com/knowledge-base/articles/filter-elements-from-mongodb-arrays/
+
+https://www.mydatahack.com/mongodb-skills-essential-exercise/
+
